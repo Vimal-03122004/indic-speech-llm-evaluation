@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+jiwer
+pandas
+numpy
+accelerate
+soundfile
